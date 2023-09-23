@@ -1,9 +1,6 @@
-# setup helper
-Interesting things to help setting up work environment
+# Remote Access to computers
 
-## [Remote Access to computers](./Remote%20Code%20Tunnel.md)
-
-Free models:
+Price to install: Free
 
 VSCode provides tunneling and allows VSCode to access remote machines/shell/repos checked out on remote machines. Here's a [link](https://code.visualstudio.com/docs/remote/tunnels) to the background.
 
